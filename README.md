@@ -20,6 +20,6 @@
 | Description | Have a chat with ChatGPT about Procedural and Functional style and how they are different also create a simple example of each style |
 | Due Date | 4-Oct-2023 |
 | Status | Done |
-| Location |  |
+| Location | https://github.com/RaulSMedina/language-ssmedina2/tree/main/Procedural_Vs_Functional_Chat |
 | Self Grade | 100/100 |
 | Notes | My Idea is taking the square root of a number |
