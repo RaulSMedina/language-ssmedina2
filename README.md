@@ -22,4 +22,4 @@
 | Status | Done |
 | Location |  |
 | Self Grade | 100/100 |
-| Notes | |
+| Notes | My Idea is taking the square root of a number |
