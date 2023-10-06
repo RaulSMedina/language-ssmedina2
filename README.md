@@ -12,6 +12,19 @@
 
 ## Assignments
 
+### Assignment #1
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Hello in C |
+| Description | write a hello world program in c that print your name in the output and have it run in a container that you built. |
+| Due Date | No Due Date |
+| Status | Done |
+| Location | https://github.com/RaulSMedina/language-ssmedina2/tree/main/Hello_in_C_Container |
+| Self Grade | 100/100 |
+| Notes | |
+
+
 ### Assignment #2
 
 | Name | Sebastian M. |
