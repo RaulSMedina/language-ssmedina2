@@ -36,3 +36,16 @@
 | Location | https://github.com/RaulSMedina/language-ssmedina2/tree/main/Procedural_Vs_Functional_Chat |
 | Self Grade | 100/100 |
 | Notes | My Idea is taking the square root of a number |
+
+
+### Assignment #3
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Object Oriented Paradigm |
+| Description | Have a chat with ChatGPT about Object Oriented Paradigm style and build a program using this style |
+| Due Date | 11-Oct-2023 |
+| Status | Done |
+| Location | https://github.com/RaulSMedina/language-ssmedina2/tree/main/Object_Oriented_Paradigm/SubtrationCode |
+| Self Grade | 100/100 |
+| Notes | My Idea is subtration and i did use a docker container |
