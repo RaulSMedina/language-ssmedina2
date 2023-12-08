@@ -1,20 +1,27 @@
 import re
 
 def parser(instring):
+    try:
+        literal_Python=eval(instring)
 
-    pattern = r'^[a-zA-Z]+\d*$' #define the patter
-
-    match= re.match(pattern, instring)#will match the pattern
-
-    if match:
-        print(f'The string you entered matches the pattern. Good Job!')
-    else:
-        print(f'The string you entered does not matche the pattern. Please try agian.')
+        if isinstance(instring, str):
+            return True
+        else:
+            return False
+    except:
+        return False
 
 def main():
-    instring=input("Please enter a string to match the pattern ^[a-zA-Z]+\d*$: ")
+    try:
+        uInput=input("Enter a phrase to check if it is a python string litiral: ")
     
-    parser(instring)
+        if parser(uInput):
+            print("Good job the phrase you entered is a string literal.")
+        else:
+            print("The phrase you entered is not a string literial please try agian.")
+    except EOFError:
+        print ("An error has occured please provide a input.")
+
 
 if __name__ == "__main__":
     main()
