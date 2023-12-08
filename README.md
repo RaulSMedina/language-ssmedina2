@@ -60,7 +60,7 @@
 | Status | Done |
 | Location | https://github.com/RaulSMedina/language-ssmedina2/tree/main/Parse_Strings |
 | Self Grade | 100/100 |
-| Notes | I did make a container with this project |
+| Notes | I did make a container with this project and I have resumbited this assighment |
 
 ### Assignment #5
 
