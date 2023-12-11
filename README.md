@@ -73,3 +73,17 @@
 | Location | https://github.com/RaulSMedina/language-ssmedina2/tree/main/Reflection_API |
 | Self Grade | 100/100 |
 | Notes | I did java |
+
+### Final 
+
+### Assignment #5
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Final Presentation |
+| Description | Pick a language / or concept area and build a small example with a presentation or a larger example without one.  In either case keep a log of a conversation with a large language model (like ChatGPT) about the topic |
+| Due Date | 11-Dec-2023 |
+| Status | Done |
+| Location | https://github.com/RaulSMedina/language-ssmedina2/tree/main/Final |
+| Self Grade | 100/100 |
+| Notes | I did Ruby |
